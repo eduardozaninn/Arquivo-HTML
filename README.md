@@ -6,11 +6,3 @@ Funcionalidades
 Jogo interativo em HTML.
 Estilo personalizado em CSS para maior atratividade visual.
 Design leve e mecânicas de jogo simples.
-
-
-
-
-
-
-
-
